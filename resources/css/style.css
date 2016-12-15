@@ -1,0 +1,73 @@
+p{
+  color: white;
+}
+
+h1{
+  font-size: 54px;
+  font-family: lobster;
+}
+
+body{
+  height: 100%;
+  background: url('https://static.pexels.com/photos/65880/paper-crepe-crepe-paper-colorful-65880.jpeg');
+  background-size: cover;
+}
+
+
+.well1{
+  max-width: 800px;
+  padding: 50px;
+  background: rgba(255,255,255,0.9);
+  margin-top: 10%;
+  border-radius: 75%;
+}
+
+.btn{
+  margin-top: 10px;
+}
+
+.circle-border{
+  display: inline-block;
+  margin: 20px 5px;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border-width: 10px;
+  border-style: solid;
+  border-color: black;
+  box-shadow: 0 4px 8px 2px grey;
+}
+
+.circle{
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  opacity: 0.2;
+
+}
+
+
+.btn-group{
+  margin: 15px 0px;
+}
+
+.light-on{
+  opacity : 1;
+}
+
+.l1{
+  background-color: #FF0000;
+
+}
+
+.l2{
+  background-color: #7CFC00;
+}
+
+.l3{
+  background-color: blue;
+}
+
+.l4{
+  background-color: #FFFF00;
+}
